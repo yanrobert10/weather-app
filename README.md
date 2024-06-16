@@ -12,7 +12,7 @@
 
 ## 📕 Sobre
 
-**App do Tempo** é um projeto feito com html e css tendo o foco principal em consumir API, pegando o nome cidade e retornando a temperatura em tempo real.
+**App do Tempo** é um projeto feito com html, css e javascript tendo o foco principal em consumir API, pegando o nome cidade e retornando a temperatura em tempo real.
 
 ## 🔨 Ferramentas Usadas
 
