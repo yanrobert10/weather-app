@@ -6,7 +6,7 @@
 
 <h1 align="center">
     <a href="https://yanrobert10.github.io/weather-app/">
-    <img src="./assets/tech 2.PNG" style="width: 30rem; height: auto;" alt="Influencer">
+    <img src="./assets/tech 2.PNG" target="_blank" style="width: 30rem; height: auto;" alt="Influencer">
     </a>
 </h1>
 
